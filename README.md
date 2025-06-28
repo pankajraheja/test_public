@@ -1,3 +1,3 @@
 # test_public
 
-<b> this is online cahnge through github
+<b> this is online changes through github
